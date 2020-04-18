@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs/EfCoreUtils
+/EfCoreUtils.Functional.Tests/bin
+/EfCoreUtils/obj
+/EfCoreUtils/bin
+/EfCoreUtils.Functional.Tests/obj
+/EfCoreUtils.Functional.Tests/Properties/PublishProfiles/FolderProfile.pubxml
+*.user
